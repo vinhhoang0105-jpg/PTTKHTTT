@@ -1,0 +1,12 @@
+# Compiled class files
+WEB-INF/classes/
+*.class
+
+# Uploads directory
+uploads/
+
+# Log and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
